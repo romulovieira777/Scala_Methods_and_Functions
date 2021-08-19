@@ -1,4 +1,4 @@
-# Scala Methods and Functions
+# Scala Methods and Functions 👽 📚
 ### Course Scala Language: Getting Started at [Pluralsight](https://www.pluralsight.com/courses/scala-methods-functions)
 #### :computer: Topics covered during the course were :rocket:
 - Section 01 - Course Overview
